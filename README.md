@@ -41,7 +41,7 @@ Após apuração dos fatos, os organizadores podem decidir até mesmo pela expul
 
 # Se você testemunha ou está sujeito a um comportamento inaceitável
 
-Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras preocupações, por favor notifique uma pessoa associada assim que possível. Você pode encontrar uma lista de pessoas associadas no site do AWS User Group Minas Gerais no meetup.com. Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras. 
+Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras preocupações, por favor notifique uma pessoa associada assim que possível. Você pode entrar em contato com os líderes da comunidade AWS User Group Minas Gerais no meetup.com, pelo link https://www.meetup.com/pt-BR/awsusergroupmg/. Além disso, os líderes estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras. 
 
 # Como responder a uma queixa
 
