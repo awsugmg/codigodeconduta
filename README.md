@@ -33,7 +33,7 @@ O assédio inclui: comentários verbais, escritos ou visuais (incluindo slides d
 
 # Consequências do comportamento inaceitável
 
-Não serão tolerados comportamentos inaceitáveis de qualquer pessoa, incluindo aquelas associadas ao AWS User Group Minas Gerais. Espera-se que as pessoas interrompam imediatamente qualquer comportamento inaceceitável assim que lhes for solicitado.
+Não serão tolerados comportamentos abusivos, agressivos, intolerantes contra qualquer raça, cor, sexo e gênero de qualquer pessoa, incluindo aquelas associadas ao AWS User Group Minas Gerais. Espera-se que as pessoas interrompam imediatamente qualquer comportamento inaceceitável assim que lhes for solicitado.
 
 Se uma pessoa tiver um comportamento inaceitável, os associados podem tomar qualquer medida que considerem apropriada, incluindo a retirada temporária.
 
