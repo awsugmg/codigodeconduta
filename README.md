@@ -2,9 +2,7 @@
 
 # Finalidade
 
-Um dos objetivos de todas as atividades e grupos de usuários que se referem a este Código de Conduta é ser inclusivo para o maior número de pessoas colaboradoras, com as mais variadas e diversificadas origens possíveis. Como tal, estamos empenhados em proporcionar um ambiente amigável, seguro e acolhedor para todas as pessoas, independente do gênero, orientação sexual, habilidade, etnia, status socioeconômico e religião (ou ausência dela).
-
-Este Código de Conduta delineia nossas expectativas para todas as pessoas que participam de nossa comunidade, bem como as conseqüências de comportamentos inaceitáveis.
+Bem-vindo ao nosso Grupo de Usuários, AWS UG MG! Estamos comprometidos em criar um ambiente inclusivo, respeitoso e colaborativo para todos os membros. Ao participar desta comunidade, você concorda em seguir este Código de Conduta para garantir que todos tenham uma experiência positiva. Este código se aplica a todos os espaços da nossa comunidade, incluindo fóruns online, eventos, grupos de discussão e plataformas de comunicação, etc.
 
 Convidamos a todos que participam de nossos eventos para nos ajudar a criar experiências seguras e positivas para todas as pessoas. 
 
