@@ -1,4 +1,4 @@
-# Código de conduta
+# Código de conduta AWS UG MG
 
 # Finalidade
 
@@ -52,3 +52,7 @@ Esperamos que todas as pessoas que visitam ou participam da comunidade do AWS Us
 # Licença e atribuição
 
 Este Código de Conduta é baseado no Código de Conduta do [Garoa Hacker Clube](https://garoa.net.br/wiki/C%C3%B3digo_de_Conduta_Completo)
+
+# Contribuições
+
+Nosso código de conduta serve para proteger a comunidade e pode ser melhorado pela comunidade. Caso queira contribuir, basta enviar um pull request e analisaremos com todo carinho.
