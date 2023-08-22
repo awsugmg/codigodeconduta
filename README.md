@@ -1,4 +1,9 @@
-# Código de conduta AWS UG MG
+<h1 align="center"> Código de conduta AWS UG MG </h1>
+<div align="center"> 
+  
+![88344010](https://github.com/shescloud/codigodeconduta/assets/105754447/82b2ed10-a3c3-4f24-ad7d-54d039f2bf8d)
+
+</div>
 
 # Finalidade
 
